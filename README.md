@@ -1,0 +1,1 @@
+# umimecesky-solver
